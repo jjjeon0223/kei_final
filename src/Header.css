@@ -1,0 +1,22 @@
+.header {
+  top: 0;
+  display: flex;
+  border-bottom: 0.1px solid black;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  width: 100%;
+  z-index: 999;
+  background-color: white;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  position: stikcy;
+}
+
+/* .header > img {
+  margin-left: 30px;
+} */
+
+.header > img:hover {
+  cursor: pointer;
+}
