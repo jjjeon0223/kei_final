@@ -1,0 +1,6 @@
+{"rewrites": [
+    {
+        "source": "codeTy=cityCd&apiKey=E1JR5LAwGIL5FQ9L2Nz21wO8Z51FQ1T057LyIv4Y&returnType=json",
+        "destination": "https://bigdata.kepco.co.kr/openapi/v1/commonCode.do?codeTy=cityCd&apiKey=E1JR5LAwGIL5FQ9L2Nz21wO8Z51FQ1T057LyIv4Y&returnType=json"
+    }
+]}
